@@ -7,6 +7,7 @@ This project is about assessing QA automation abilities.
 ### Prerequisites
 * Java JDK: 10 or higher
 * Maven: 3.3.9 or higher
+* For safari allows remote control via development menu
 
 ## Test Objectives
 The marketing team ask you to write an automation test to validate how prospect access to our website, and the form to request a demo of the product.

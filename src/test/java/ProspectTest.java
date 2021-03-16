@@ -1,20 +1,32 @@
-package selenium.driver;
-
 import net.bytebuddy.utility.RandomString;
+import org.apache.log4j.BasicConfigurator;
+import org.apache.log4j.PropertyConfigurator;
 import org.junit.jupiter.api.*;
 import org.openqa.selenium.*;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import selenium.driver.Browser;
+import selenium.driver.WebDriverUtility;
+
 import java.util.concurrent.TimeUnit;
 
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
 public class ProspectTest {
     public String baseUrl = "https://www.google.com";
     public WebDriver driver;
+    public Logger logger = LoggerFactory.getLogger(getClass());
+
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+        PropertyConfigurator.configure("log4j.properties");
+    }
 
     @BeforeAll
     public void initialize(){
+        logger.info("start initializing driver");
         driver = WebDriverUtility.getWebDriver(Browser.CHROME);
         driver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
     }
@@ -22,6 +34,7 @@ public class ProspectTest {
     @Test
     public void searchAodocs() throws InterruptedException,NoSuchElementException, NoSuchFrameException, TimeoutException {
         driver.get(baseUrl); // Navigate to Url
+        logger.info("google webpage opened");
         WebDriverWait wait = new WebDriverWait(driver, 5);
 
         String searchGoogleFieldXpath = "/html/body/div[1]/div[3]/form/div[2]/div[1]/div[1]/div/div[2]/input";
@@ -49,6 +62,7 @@ public class ProspectTest {
 
         //In the result, open the website www.aodocs.com
         String aodocsWebsiteClass = "www.aodocs.com";
+        logger.info("aodocs homepage reached");
         String link = driver.findElement(By.partialLinkText(aodocsWebsiteClass)).getText();
         String[] str1 = link.split(" ");
         System.out.println(str1[str1.length - 1]);
@@ -95,5 +109,6 @@ public class ProspectTest {
     @AfterAll
     public void teardown(){
         WebDriverUtility.closeWebDriver(driver);
+        logger.info("driver closed");
     }
 }

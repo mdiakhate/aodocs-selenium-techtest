@@ -37,6 +37,7 @@ public class WebDriverUtility {
 
     public static void closeWebDriver(WebDriver webDriver) {
         if (webDriver != null)
+            webDriver.close();
             webDriver.quit();
     }
 
