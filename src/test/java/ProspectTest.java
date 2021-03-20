@@ -1,5 +1,4 @@
 import net.bytebuddy.utility.RandomString;
-import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.PropertyConfigurator;
 import org.junit.jupiter.api.*;
 import org.openqa.selenium.*;
@@ -17,11 +16,12 @@ import java.util.concurrent.TimeUnit;
 public class ProspectTest {
     public String baseUrl = "https://www.google.com";
     public WebDriver driver;
-    public Logger logger = LoggerFactory.getLogger(getClass());
+    public static Logger logger = LoggerFactory.getLogger("ProspectTest");
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
         PropertyConfigurator.configure("log4j.properties");
+        logger.info("in main method prospectTest");
     }
 
     @BeforeAll
