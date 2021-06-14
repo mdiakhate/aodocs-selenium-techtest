@@ -1,0 +1,321 @@
+2021-03-17 02:15:12 INFO  ProspectTest:28 - start initializing driver
+2021-03-17 02:15:12 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-17 02:15:12 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-17 02:15:12 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-17 02:15:12 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-17 02:15:17 INFO  ProspectTest:36 - google webpage opened
+2021-03-17 02:15:25 INFO  ProspectTest:64 - aodocs homepage reached
+2021-03-17 02:15:33 INFO  ProspectTest:111 - driver closed
+2021-03-17 02:15:33 INFO  ProspectTest:28 - start initializing driver
+2021-03-17 02:15:33 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-17 02:15:33 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-17 02:15:33 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-17 02:15:33 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-17 02:15:36 INFO  ProspectTest:36 - google webpage opened
+2021-03-17 02:15:44 INFO  ProspectTest:64 - aodocs homepage reached
+2021-03-17 02:15:51 INFO  ProspectTest:111 - driver closed
+2021-03-17 02:15:51 INFO  ProspectTest:28 - start initializing driver
+2021-03-17 02:15:51 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-17 02:15:51 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-17 02:15:51 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-17 02:15:51 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-17 02:15:53 INFO  ProspectTest:36 - google webpage opened
+2021-03-17 02:16:02 INFO  ProspectTest:64 - aodocs homepage reached
+2021-03-17 02:16:02 INFO  ProspectTest:111 - driver closed
+2021-03-17 02:16:22 INFO  ProspectTest:28 - start initializing driver
+2021-03-17 02:16:22 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-17 02:16:22 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-17 02:16:22 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-17 02:16:22 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-17 02:16:25 INFO  ProspectTest:36 - google webpage opened
+2021-03-17 02:16:34 INFO  ProspectTest:64 - aodocs homepage reached
+2021-03-17 02:16:41 INFO  ProspectTest:111 - driver closed
+2021-03-17 02:16:41 INFO  ProspectTest:28 - start initializing driver
+2021-03-17 02:16:41 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-17 02:16:41 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-17 02:16:41 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-17 02:16:41 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-17 02:16:43 INFO  ProspectTest:36 - google webpage opened
+2021-03-17 02:16:51 INFO  ProspectTest:111 - driver closed
+2021-03-17 02:16:51 INFO  ProspectTest:28 - start initializing driver
+2021-03-17 02:16:51 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-17 02:16:51 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-17 02:16:51 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-17 02:16:51 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-17 02:16:53 INFO  ProspectTest:36 - google webpage opened
+2021-03-17 02:17:01 INFO  ProspectTest:64 - aodocs homepage reached
+2021-03-17 02:17:02 INFO  ProspectTest:111 - driver closed
+2021-03-17 02:21:34 INFO  ProspectTest:28 - start initializing driver
+2021-03-17 02:21:34 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-17 02:21:34 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-17 02:21:34 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-17 02:21:34 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-17 02:21:39 INFO  ProspectTest:36 - google webpage opened
+2021-03-17 02:21:47 INFO  ProspectTest:64 - aodocs homepage reached
+2021-03-17 02:21:54 INFO  ProspectTest:111 - driver closed
+2021-03-17 02:21:54 INFO  ProspectTest:28 - start initializing driver
+2021-03-17 02:21:54 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-17 02:21:54 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-17 02:21:54 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-17 02:21:54 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-17 02:21:57 INFO  ProspectTest:36 - google webpage opened
+2021-03-17 02:22:05 INFO  ProspectTest:64 - aodocs homepage reached
+2021-03-17 02:22:12 INFO  ProspectTest:111 - driver closed
+2021-03-17 02:22:50 INFO  ProspectTest:28 - start initializing driver
+2021-03-17 02:22:50 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-17 02:22:50 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-17 02:22:50 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-17 02:22:50 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-17 02:22:54 INFO  ProspectTest:36 - google webpage opened
+2021-03-17 02:23:02 INFO  ProspectTest:64 - aodocs homepage reached
+2021-03-17 02:23:10 INFO  ProspectTest:111 - driver closed
+2021-03-17 02:28:20 INFO  ProspectTest:28 - start initializing driver
+2021-03-17 02:28:20 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-17 02:28:20 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-17 02:28:20 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-17 02:28:20 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-17 02:28:26 INFO  ProspectTest:36 - google webpage opened
+2021-03-17 02:28:35 INFO  ProspectTest:64 - aodocs homepage reached
+2021-03-17 02:28:42 INFO  ProspectTest:111 - driver closed
+2021-03-17 02:36:45 INFO  ProspectTest:29 - start initializing driver
+2021-03-17 02:36:45 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-17 02:36:45 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-17 02:36:46 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-17 02:36:46 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-17 02:36:49 INFO  ProspectTest:37 - google webpage opened
+2021-03-17 02:36:58 INFO  ProspectTest:65 - aodocs homepage reached
+2021-03-17 02:37:05 INFO  ProspectTest:112 - driver closed
+2021-03-17 02:37:37 INFO  ProspectTest:29 - start initializing driver
+2021-03-17 02:37:37 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-17 02:37:37 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-17 02:37:38 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-17 02:37:38 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-17 02:37:54 INFO  ProspectTest:37 - google webpage opened
+2021-03-17 02:38:12 INFO  ProspectTest:65 - aodocs homepage reached
+2021-03-17 02:38:46 INFO  ProspectTest:112 - driver closed
+2021-03-17 11:25:14 INFO  ProspectTest:29 - start initializing driver
+2021-03-17 11:25:14 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-17 11:25:14 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-17 11:25:15 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-17 11:25:15 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-17 11:25:19 INFO  ProspectTest:37 - google webpage opened
+2021-03-17 11:25:27 INFO  ProspectTest:65 - aodocs homepage reached
+2021-03-17 11:25:35 INFO  ProspectTest:112 - driver closed
+2021-03-17 22:59:49 INFO  ProspectTest:29 - start initializing driver
+2021-03-17 22:59:49 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-17 22:59:49 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-17 22:59:49 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-17 22:59:49 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-17 22:59:54 INFO  ProspectTest:37 - google webpage opened
+2021-03-17 23:00:02 INFO  ProspectTest:65 - aodocs homepage reached
+2021-03-17 23:00:22 INFO  ProspectTest:112 - driver closed
+2021-03-17 23:58:43 INFO  ProspectTest:29 - start initializing driver
+2021-03-17 23:58:43 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-17 23:58:43 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-17 23:58:43 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-17 23:58:43 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-17 23:58:47 INFO  ProspectTest:37 - google webpage opened
+2021-03-17 23:58:56 INFO  ProspectTest:65 - aodocs homepage reached
+2021-03-17 23:59:03 INFO  ProspectTest:112 - driver closed
+2021-03-18 00:00:54 INFO  ProspectTest:29 - start initializing driver
+2021-03-18 00:00:54 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-18 00:00:54 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-18 00:00:54 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-18 00:00:54 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-18 00:00:59 INFO  ProspectTest:37 - google webpage opened
+2021-03-18 00:01:08 INFO  ProspectTest:65 - aodocs homepage reached
+2021-03-18 00:01:15 INFO  ProspectTest:112 - driver closed
+2021-03-18 01:03:34 INFO  ProspectTest:29 - start initializing driver
+2021-03-18 01:03:34 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-18 01:03:34 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-18 01:03:35 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-18 01:03:35 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-18 01:03:38 INFO  ProspectTest:37 - google webpage opened
+2021-03-18 01:03:44 INFO  ProspectTest:65 - aodocs homepage reached
+2021-03-18 01:03:52 INFO  ProspectTest:112 - driver closed
+2021-03-18 01:09:35 INFO  ProspectTest:29 - start initializing driver
+2021-03-18 01:09:35 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-18 01:09:35 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-18 01:09:36 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-18 01:09:36 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-18 01:09:40 INFO  ProspectTest:37 - google webpage opened
+2021-03-18 01:09:48 INFO  ProspectTest:65 - aodocs homepage reached
+2021-03-18 01:09:55 INFO  ProspectTest:112 - driver closed
+2021-03-18 01:11:49 INFO  ProspectTest:29 - start initializing driver
+2021-03-18 01:11:49 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-18 01:11:49 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-18 01:11:49 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-18 01:11:49 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-18 01:11:53 INFO  ProspectTest:37 - google webpage opened
+2021-03-18 01:12:01 INFO  ProspectTest:65 - aodocs homepage reached
+2021-03-18 01:12:22 INFO  ProspectTest:112 - driver closed
+2021-03-18 01:13:05 INFO  ProspectTest:29 - start initializing driver
+2021-03-18 01:13:05 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-18 01:13:05 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-18 01:13:06 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-18 01:13:06 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-18 01:13:09 INFO  ProspectTest:37 - google webpage opened
+2021-03-18 01:13:18 INFO  ProspectTest:65 - aodocs homepage reached
+2021-03-18 01:13:37 INFO  ProspectTest:112 - driver closed
+2021-03-18 01:13:45 INFO  ProspectTest:29 - start initializing driver
+2021-03-18 01:13:45 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-18 01:13:45 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-18 01:13:46 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-18 01:13:46 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-18 01:13:49 INFO  ProspectTest:37 - google webpage opened
+2021-03-18 01:13:56 INFO  ProspectTest:112 - driver closed
+2021-03-18 01:21:23 INFO  ProspectTest:29 - start initializing driver
+2021-03-18 01:21:23 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-18 01:21:23 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-18 01:21:23 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-18 01:21:23 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-18 01:21:27 INFO  ProspectTest:37 - google webpage opened
+2021-03-18 01:21:36 INFO  ProspectTest:65 - aodocs homepage reached
+2021-03-18 01:21:44 INFO  ProspectTest:112 - driver closed
+2021-03-18 01:48:02 INFO  ProspectTest:29 - start initializing driver
+2021-03-18 01:48:02 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-18 01:48:02 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-18 01:48:03 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-18 01:48:03 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-18 01:48:07 INFO  ProspectTest:37 - google webpage opened
+2021-03-18 01:48:15 INFO  ProspectTest:65 - aodocs homepage reached
+2021-03-18 01:48:22 INFO  ProspectTest:112 - driver closed
+2021-03-18 01:54:18 INFO  ProspectTest:29 - start initializing driver
+2021-03-18 01:54:18 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-18 01:54:18 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-18 01:54:19 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-18 01:54:19 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-18 01:54:23 INFO  ProspectTest:37 - google webpage opened
+2021-03-18 01:54:31 INFO  ProspectTest:65 - aodocs homepage reached
+2021-03-18 01:54:39 INFO  ProspectTest:112 - driver closed
+2021-03-18 02:04:27 INFO  ProspectTest:29 - start initializing driver
+2021-03-18 02:04:27 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-18 02:04:27 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-18 02:04:27 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-18 02:04:27 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-18 02:04:32 INFO  ProspectTest:37 - google webpage opened
+2021-03-18 02:04:40 INFO  ProspectTest:65 - aodocs homepage reached
+2021-03-18 02:04:47 INFO  ProspectTest:112 - driver closed
+2021-03-18 02:06:21 INFO  ProspectTest:29 - start initializing driver
+2021-03-18 02:06:21 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-18 02:06:21 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-18 02:06:21 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-18 02:06:21 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-18 02:06:25 INFO  ProspectTest:37 - google webpage opened
+2021-03-18 02:06:33 INFO  ProspectTest:65 - aodocs homepage reached
+2021-03-18 02:06:40 INFO  ProspectTest:112 - driver closed
+2021-03-19 22:53:37 INFO  ProspectTest:29 - start initializing driver
+2021-03-19 22:53:37 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-19 22:53:37 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-19 22:53:38 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-19 22:53:38 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-19 22:53:42 INFO  ProspectTest:37 - google webpage opened
+2021-03-19 22:53:49 INFO  ProspectTest:112 - driver closed
+2021-03-20 15:56:59 INFO  ProspectTest:29 - start initializing driver
+2021-03-20 15:56:59 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-20 15:56:59 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-20 15:57:00 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-20 15:57:00 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-20 15:57:05 INFO  ProspectTest:37 - google webpage opened
+2021-03-20 15:57:12 INFO  ProspectTest:112 - driver closed
+2021-03-20 15:59:15 INFO  ProspectTest:29 - start initializing driver
+2021-03-20 15:59:15 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-20 15:59:15 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-20 15:59:16 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-20 15:59:16 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-20 15:59:21 INFO  ProspectTest:37 - google webpage opened
+2021-03-20 15:59:28 INFO  ProspectTest:112 - driver closed
+2021-03-20 16:19:57 INFO  ProspectTest:29 - start initializing driver
+2021-03-20 16:19:57 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-20 16:19:57 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-20 16:19:58 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-20 16:19:58 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-20 16:20:03 INFO  ProspectTest:37 - google webpage opened
+2021-03-20 16:20:10 INFO  ProspectTest:112 - driver closed
+2021-03-20 16:48:25 INFO  ProspectTest:29 - start initializing driver
+2021-03-20 16:48:25 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-20 16:48:25 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-20 16:48:26 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-20 16:48:26 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-20 16:48:31 INFO  ProspectTest:37 - google webpage opened
+2021-03-20 16:48:39 INFO  ProspectTest:112 - driver closed
+2021-03-21 21:46:06 INFO  ProspectTest:29 - start initializing driver
+2021-03-21 21:46:06 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-21 21:46:06 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-21 21:46:09 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-21 21:46:09 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-21 21:46:18 INFO  ProspectTest:37 - google webpage opened
+2021-03-21 21:46:25 INFO  ProspectTest:112 - driver closed
+2021-03-28 12:38:13 INFO  ProspectTest:30 - start initializing driver
+2021-03-28 12:38:13 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-28 12:38:13 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-28 12:38:14 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-28 12:38:14 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-28 12:38:16 INFO  ProspectTest:38 - google webpage opened
+2021-03-28 12:38:24 INFO  ProspectTest:116 - driver closed
+2021-03-28 12:39:17 INFO  ProspectTest:30 - start initializing driver
+2021-03-28 12:39:17 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-28 12:39:17 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-28 12:39:18 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-28 12:39:18 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-28 12:39:20 INFO  ProspectTest:38 - google webpage opened
+2021-03-28 12:39:27 INFO  ProspectTest:116 - driver closed
+2021-03-28 15:27:48 INFO  ProspectTest:30 - start initializing driver
+2021-03-28 15:27:48 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-28 15:27:48 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-28 15:27:49 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-28 15:27:49 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-28 15:27:51 INFO  ProspectTest:38 - google webpage opened
+2021-03-28 15:27:59 INFO  ProspectTest:116 - driver closed
+2021-03-28 15:30:49 INFO  ProspectTest:30 - start initializing driver
+2021-03-28 15:30:49 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-03-28 15:30:49 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-03-28 15:30:49 INFO  WebDriverManager:571 - Using chromedriver 89.0.4389.23 (since Chrome 89 is installed in your machine)
+2021-03-28 15:30:49 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/89.0.4389.23/chromedriver
+2021-03-28 15:30:52 INFO  ProspectTest:38 - google webpage opened
+2021-03-28 15:30:59 INFO  ProspectTest:117 - driver closed
+2021-05-05 22:13:30 INFO  ProspectTest:30 - start initializing driver
+2021-05-05 22:13:30 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-05-05 22:13:30 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-05-05 22:13:32 INFO  WebDriverManager:571 - Using chromedriver 90.0.4430.24 (since Chrome 90 is installed in your machine)
+2021-05-05 22:13:32 INFO  WebDriverManager:823 - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+2021-05-05 22:13:32 INFO  Downloader:124 - Downloading https://chromedriver.storage.googleapis.com/90.0.4430.24/chromedriver_mac64.zip
+2021-05-05 22:13:42 INFO  Downloader:178 - Extracting binary from compressed file chromedriver_mac64.zip
+2021-05-05 22:13:42 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/90.0.4430.24/chromedriver
+2021-05-05 22:13:45 INFO  ProspectTest:38 - google webpage opened
+2021-05-05 22:13:53 INFO  ProspectTest:117 - driver closed
+2021-05-05 22:25:48 INFO  ProspectTest:30 - start initializing driver
+2021-05-05 22:25:48 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-05-05 22:25:48 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-05-05 22:25:49 INFO  WebDriverManager:571 - Using chromedriver 90.0.4430.24 (since Chrome 90 is installed in your machine)
+2021-05-05 22:25:49 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/90.0.4430.24/chromedriver
+2021-05-05 22:25:52 INFO  ProspectTest:38 - google webpage opened
+2021-05-05 22:25:59 INFO  ProspectTest:117 - driver closed
+2021-05-05 22:26:19 INFO  ProspectTest:30 - start initializing driver
+2021-05-05 22:26:19 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-05-05 22:26:19 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-05-05 22:26:19 INFO  WebDriverManager:571 - Using chromedriver 90.0.4430.24 (since Chrome 90 is installed in your machine)
+2021-05-05 22:26:19 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/90.0.4430.24/chromedriver
+2021-05-05 22:26:22 INFO  ProspectTest:38 - google webpage opened
+2021-05-05 22:26:30 INFO  ProspectTest:117 - driver closed
+2021-05-05 22:29:33 INFO  ProspectTest:30 - start initializing driver
+2021-05-05 22:29:33 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-05-05 22:29:33 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-05-05 22:29:34 INFO  WebDriverManager:571 - Using chromedriver 90.0.4430.24 (since Chrome 90 is installed in your machine)
+2021-05-05 22:29:34 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/90.0.4430.24/chromedriver
+2021-05-05 22:29:39 INFO  ProspectTest:38 - google webpage opened
+2021-05-05 22:29:47 INFO  ProspectTest:117 - driver closed
+2021-05-05 22:30:00 INFO  ProspectTest:30 - start initializing driver
+2021-05-05 22:30:00 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-05-05 22:30:00 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-05-05 22:30:01 INFO  WebDriverManager:571 - Using chromedriver 90.0.4430.24 (since Chrome 90 is installed in your machine)
+2021-05-05 22:30:01 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/90.0.4430.24/chromedriver
+2021-05-05 22:30:06 INFO  ProspectTest:38 - google webpage opened
+2021-05-05 22:30:14 INFO  ProspectTest:117 - driver closed
+2021-05-06 09:01:14 INFO  ProspectTest:30 - start initializing driver
+2021-05-06 09:01:14 INFO  WebDriverManager:269 - Please answer the following questionnaire based on your experience with WebDriverManager. Thanks a lot!
+2021-05-06 09:01:14 INFO  WebDriverManager:271 - ====> http://tiny.cc/wdm-survey <====
+2021-05-06 09:01:14 INFO  WebDriverManager:571 - Using chromedriver 90.0.4430.24 (since Chrome 90 is installed in your machine)
+2021-05-06 09:01:14 INFO  WebDriverManager:615 - Exporting webdriver.chrome.driver as /Users/diakhate/.m2/repository/webdriver/chromedriver/mac64/90.0.4430.24/chromedriver
+2021-05-06 09:01:21 INFO  ProspectTest:38 - google webpage opened
+2021-05-06 09:01:29 INFO  ProspectTest:117 - driver closed

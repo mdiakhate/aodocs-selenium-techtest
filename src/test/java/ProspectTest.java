@@ -10,6 +10,7 @@ import org.slf4j.LoggerFactory;
 import selenium.driver.Browser;
 import selenium.driver.WebDriverUtility;
 
+import java.io.File;
 import java.util.concurrent.TimeUnit;
 
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
@@ -31,11 +32,13 @@ public class ProspectTest {
         driver.manage().timeouts().implicitlyWait(2, TimeUnit.SECONDS);
     }
 
-    @Test
-    public void searchAodocs() throws InterruptedException,NoSuchElementException, NoSuchFrameException, TimeoutException {
+    //@Test
+    public void searchAodocs() throws Exception {
         driver.get(baseUrl); // Navigate to Url
         logger.info("google webpage opened");
         WebDriverWait wait = new WebDriverWait(driver, 5);
+        //Call take screenshot function
+        WebDriverUtility.takeSnapShot(driver, "/Users/diakhate/selenium-techtest-main/src/test/resources/google.png") ;
 
         String searchGoogleFieldXpath = "/html/body/div[1]/div[3]/form/div[2]/div[1]/div[1]/div/div[2]/input";
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(searchGoogleFieldXpath)));
@@ -76,6 +79,8 @@ public class ProspectTest {
         String requestDemoButtonXpath = "//*[@id=\"DND_banner-module-1\"]/div/div/div[1]/div/div/a";
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(requestDemoButtonXpath)));
         driver.findElement(By.xpath(requestDemoButtonXpath)).click();
+
+        WebDriverUtility.takeSnapShot(driver, "/Users/diakhate/selenium-techtest-main/src/test/resources/test.png") ;
         Thread.sleep(3000); // to prevent TimeoutException: Expected condition failed: waiting for visibility of element located by By.id: firstname...
 
         System.out.println("-------------Filling the form-----------");
