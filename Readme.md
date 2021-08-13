@@ -33,5 +33,5 @@ Solution of this issue below :
  => Replace "AfterAll" and "BeforeAll" annotations by "After" and "Before" + remove "@TestInstance(TestInstance.Lifecycle.PER_CLASS)
 " and update/manage imports (remove "import org.junit.jupiter.api.*;" and use "import org.junit.*;")
 
-## TODO Notes 3 : Several ways to execute tests => Cli via "mvn clean test", Run config (maven or Junit
+## Notes 3 : Several ways to execute tests => Cli via "mvn clean test", Run config (maven or Junit
 configuration), Maven panel, Right click in project explorer then 'Run'
