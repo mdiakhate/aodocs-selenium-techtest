@@ -1,26 +1,23 @@
-import org.junit.After;
-import org.junit.Before;
-import org.junit.Test;
+import org.junit.jupiter.api.*;
+import org.junit.jupiter.api.TestInstance;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import java.util.HashMap;
-import java.util.Map;
-import static org.hamcrest.CoreMatchers.is;
 
+@TestInstance(TestInstance.Lifecycle.PER_CLASS)
 public class RdvvdmTest {
     private WebDriver driver;
-    private Map<String, Object> vars;
     JavascriptExecutor js;
-    @Before
+    @BeforeAll
     public void setUp() {
+        String chromeDriverPath = "/Users/diakhate/chromedriver";
+        System.setProperty("webdriver.chrome.driver",chromeDriverPath);
         driver = new ChromeDriver();
         js = (JavascriptExecutor) driver;
-        vars = new HashMap<String, Object>();
     }
-    @After
+    @AfterAll
     public void tearDown() {
         driver.quit();
     }
@@ -30,9 +27,9 @@ public class RdvvdmTest {
         driver.manage().window().setSize(new Dimension(1440, 788));
         driver.findElement(By.id("condition")).click();
         driver.findElement(By.name("nextButton")).click();
-        driver.findElement(By.id("planning19866")).click();
+        driver.findElement(By.id("planning20823")).click();
         driver.findElement(By.name("nextButton")).click();
-        // TODO : ajouter snapshot
+        // TODO : add snapshot
         assert(driver.findElement(By.id("FormBookingCreate")).getText().contains("plus de plage horaire libre pour votre demande de rendez-vous. Veuillez recommencer ultérieurement."));
         driver.close();
     }
