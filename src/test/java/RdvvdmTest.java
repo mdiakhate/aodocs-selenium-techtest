@@ -5,16 +5,20 @@ import org.openqa.selenium.Dimension;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
 public class RdvvdmTest {
     private WebDriver driver;
-    JavascriptExecutor js;
+    private ChromeOptions options;
+    private JavascriptExecutor js;
     @BeforeAll
     public void setUp() {
         String chromeDriverPath = "/Users/diakhate/chromedriver";
         System.setProperty("webdriver.chrome.driver",chromeDriverPath);
-        driver = new ChromeDriver();
+        options = new ChromeOptions();
+        options.addArguments("headless");
+        driver = new ChromeDriver(options);
         js = (JavascriptExecutor) driver;
     }
     @AfterAll
